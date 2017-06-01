@@ -1,0 +1,6 @@
+[logstash-5.0]
+name=logstash	repository	for	5.0.x	packages 
+baseurl=http://packages.elasticsearch.org/logstash/5.0/centos 
+gpgcheck=1 
+gpgkey=http://packages.elasticsearch.org/GPG-KEY-elasticsearch 
+enabled=1 
